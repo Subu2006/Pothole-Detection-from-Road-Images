@@ -1,0 +1,13 @@
+Metric,Value
+Total_Samples,16
+True_Positives_TP,10
+False_Positives_FP,2
+True_Negatives_TN,4
+False_Negatives_FN,0
+Accuracy_Percent,87.5
+Precision_Percent,83.3333333333333
+Recall_Sensitivity_Percent,100
+Specificity_Percent,66.6666666666667
+F1_Score_Percent,90.9090909090909
+Mean_Segmentation_IoU,0.0417799419303609
+Mean_Latency_ms,164.151625

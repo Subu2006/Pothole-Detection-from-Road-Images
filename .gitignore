@@ -1,0 +1,23 @@
+# =========================================================================
+# MATLAB & Environment Exclusions
+# =========================================================================
+*.asv
+*.m~
+*.mlx.autosave
+*.fig.autosave
+*.slxc
+
+# Scratch & temporary development files
+scratch/
+*.tmp
+*.log
+
+# Windows OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE & Editor files
+.vscode/
+.idea/

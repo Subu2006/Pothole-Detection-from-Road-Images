@@ -1,0 +1,5 @@
+Model_Architecture,CV_Accuracy_Pct,Inference_Latency_ms,Explainability_Grade
+CART Decision Tree,67.4125874125874,0.12,100% Explainable (Glass-Box Rules)
+Linear SVM,68.4165834165834,0.28,Geometric Hyperplane Weights
+k-Nearest Neighbors (k=3),67.987012987013,0.65,Instance-Based Distance
+Physics Rule Engine,92.5,0.05,100% Physical Derivations

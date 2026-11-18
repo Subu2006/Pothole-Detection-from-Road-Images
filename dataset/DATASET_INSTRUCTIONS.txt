@@ -1,0 +1,8 @@
+ECE443 CA2: DATASET REPOSITORY INSTRUCTIONS
+===================================================
+This directory contains the curated benchmark road dataset.
+To add external images from Kaggle/Roboflow (CC BY 4.0):
+1. Place genuine pothole images in: dataset/test/positive/
+2. Place plain road/shadow images in: dataset/test/negative/
+3. Supported formats: .jpg, .png, .bmp (RGB 24-bit).
+4. Images are automatically normalized to 480x640 by the pipeline.
